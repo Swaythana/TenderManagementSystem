@@ -5,12 +5,12 @@ As a part of it, tender data is recorded along with particulars of the products,
 we make this whole process of tendering online which is efficient and consumes very less time.
 
 Software Requirements :
-● Build Tool - Maven _
-● Java 1.8 _
-● Server - Tomcat _
-● Spring Tool Suite _
-● Back-End - MySql database _
-● Front-End - JSP(used for creating dynamic web pages), HTML, CSS and Bootstrap _
+● Build Tool - Maven<br />
+● Java 1.8 <br />
+● Server - Tomcat <br />
+● Spring Tool Suite <br />
+● Back-End - MySql database <br />
+● Front-End - JSP(used for creating dynamic web pages), HTML, CSS and Bootstrap <br />
 
 Modules :
 ● Admin

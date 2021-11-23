@@ -33,3 +33,8 @@ Role of User :<br />
 3. View all his/her biddings.<br />
 4. View biddings confirmed by the contractor.<br />
 
+Future Work:<br />
+1. Add the payment gateway for the user to finalise the tender<br />
+2. Add th functionality for user to view other users bidding.<br />
+
+

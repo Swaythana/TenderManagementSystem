@@ -35,6 +35,6 @@ Role of User :<br />
 
 Future Work:<br />
 1. Add the payment gateway for the user to finalize the tender<br />
-2. Add th functionality for user to view other users bidding.<br />
+2. Add the functionality for user to view other users bidding.<br />
 
 
